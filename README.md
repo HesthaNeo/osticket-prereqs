@@ -210,21 +210,21 @@ This lab demonstration outlines the prerequisites and installation of the open-s
 <img src="https://i.imgur.com/R6EMCMO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KSOupuY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - Once completed, we head back to our web browser to continue setting up osTicket with the apppropriate credentials.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eC8KngO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - After this, we can click install now, and osTicket has been successfully installed. We can browse to our osTicket help desk login page, and see our fully functioning ticketing system.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vekCFPR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sa23Bwi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
