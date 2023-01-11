@@ -186,28 +186,28 @@ This lab demonstration outlines the prerequisites and installation of the open-s
 <img src="https://i.imgur.com/sap6H01.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2FbBBGM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - From there, we can continue to setting up osTicket in our web browser.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9OfbfQa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - In order to continue with the setup of osTicket, we need to download and install Heidi SQL.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xnBs3zY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/geTitRw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - After installation, we created a new session, connected to the session, and inside Heidi SQL, created a database called "osTicket".
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/R6EMCMO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
