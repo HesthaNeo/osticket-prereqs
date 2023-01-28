@@ -1,19 +1,14 @@
 <p align="center">
-    <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-    </p>
-    
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 <h1><u>osTicket - Prerequisites and Installation</u></h1>
     <p>This lab demonstration outlines the prerequisites and installation of the open-source help desk ticketing system, osTicket.</p>
-    
-    
-    
     <h2><em>Environments and Technologies Used</em></h2>
         <ul>
             <li>Microsoft Azure (Virtual Machines/Compute)</li>
             <li>Remote Desktop</li>
             <li>Internet Information Services (IIS)</li>
         </ul>
-    
     <h2><em>Operating Systems Used</em></h2>
         <ul>
             <li>Windows 10 (21H2)</li>
@@ -27,7 +22,6 @@
             <li>Install MySQL and Setup Username and Password</li>
             <li>Configure Permissions and Install osTicket</li>
             </ul>
-    
     <h2><strong><u>Installation Steps</u></strong></h2>
         <h3>Step 1: Enable Internet Information Services (IIS) with CGI (Common Gateway Interface)</h3>
             <p>- First, we open Control Panel, go to Programs and Features, and click Turn Windows Features on or off. From there we scroll down to find IIS, and enable it.</p>
