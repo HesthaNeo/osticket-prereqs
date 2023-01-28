@@ -21,7 +21,7 @@
             <li>Install C++ Redistributable</li>
             <li>Install MySQL and Setup Username and Password</li>
             <li>Configure Permissions and Install osTicket</li>
-            </ul>
+        </ul>
     <h2><strong><u>Installation Steps</u></strong></h2>
         <h3>Step 1: Enable Internet Information Services (IIS) with CGI (Common Gateway Interface)</h3>
             <p>- First, we open Control Panel, go to Programs and Features, and click Turn Windows Features on or off. From there we scroll down to find IIS, and enable it.</p>
